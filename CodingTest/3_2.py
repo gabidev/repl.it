@@ -8,4 +8,4 @@ data.sort()
 first = data[n - 1]
 second = data[n - 2]
 
-print(first, second)
+print(m // (k + 1) * (first * k + second) + first * (m % (k + 1)))
